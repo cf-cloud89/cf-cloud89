@@ -1,17 +1,18 @@
-# Hi 👋, I'm Chinecherem Udegbunam
+# Hi👋, I'm Chinecherem Udegbunam
 
-I'm an inquisitive individual who likes figuring out how things work — including under the hood. That’s when the most interesting lessons take place.
-
----
-
-### 🧑‍💻 What I’m Working On
-- 🤝 Currently volunteering as a **DevOps Engineer at ComClic**
-- 🌩️ Deepening my DevOps and CloudOps skills - of course, learning is continuous here
-- 🤝 Open to collaborating on Cloud or DevOps projects
+I'm an inquisitive individual who likes figuring out how things work — especially under the hood. That’s when the most interesting lessons happen.
 
 ---
 
-### ⚡ Tools & Languages
+### 💻 What I’m Working On
+- 🤝 Currently volunteering as a **DevOps Engineer** at **ComClic.**
+- 👨‍🏫 Currently volunteering as a **Mentor** in the [**alx_africa's**](https://www.linkedin.com/company/alxafrica/) [**AWS Cloud Computing**](https://ehub.alxafrica.com/program/CC) program.
+- 🌩️ Deepening my DevOps and CloudOps skills - of course, learning is continuous here.
+- 🤝 Open to collaborating on Cloud or DevOps projects.
+
+---
+
+### 🛠 Tools & Languages
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
