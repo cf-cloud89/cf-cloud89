@@ -42,7 +42,7 @@ I'm an inquisitive individual who likes figuring out how things work — especia
 ---
 
 ### 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](udegbunamfrank89@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mail.google.com/mail/u/0/?q=aws+emerging+talent#inbox?compose=new)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@ChinecheremU)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinecheremudegbunam)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EZEUDO89)
